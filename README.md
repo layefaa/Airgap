@@ -87,7 +87,7 @@ Contributions are welcome! This is a long-term project.
 
 **Martin-Luther Obahor**
 * *Make and Break* Philosophy
-* [LinkedIn](https://linkedin.com/in/yourprofile)
+* [LinkedIn](https://linkedin.com/in/martin-luther.obahor)
 
 ---
 
