@@ -1,8 +1,3 @@
-Here is the updated `README.md` tailored for your **Open Core** strategy. It explicitly states the open-source nature of the project (AGPLv3) while setting the stage for a future App Store release with premium features.
-
-Copy the code block below and save it as `README.md` in your project root.
-
-```markdown
 # Airgap 🛡️
 
 **Secure Your Focus. Hardened Productivity for macOS, iPad, and iPhone.**
@@ -97,5 +92,3 @@ Contributions are welcome! This is a long-term project.
 ---
 
 *"Discipline is freedom."*
-
-```
