@@ -86,7 +86,6 @@ Contributions are welcome! This is a long-term project.
 ## 👤 Author
 
 **Martin-Luther Obahor**
-* *Make and Break* Philosophy
 * [LinkedIn](https://linkedin.com/in/martin-luther.obahor)
 
 ---
